@@ -58,6 +58,7 @@ class pointLocation {
  
     function pointStringToCoordinates($pointString) {
         $coordinates = explode(" ", $pointString);
+        //O X deve ser a latitude e Y longitude
         return array("x" => $coordinates[0], "y" => $coordinates[1]);
     }
  
