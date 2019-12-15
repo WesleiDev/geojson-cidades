@@ -3466,7 +3466,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "PQ Res Bela Vista"
       },
       "geometry": {
         "type": "Polygon",
